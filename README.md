@@ -20,3 +20,7 @@ The dataset was processed on the data from Boston MA, to represent the temperatu
 ![image](https://user-images.githubusercontent.com/59964869/223541761-301590d6-0f65-42bf-9828-4190b545294d.png)
 ### Time-series Modeling
 #### SARIMA
+![image](https://user-images.githubusercontent.com/59964869/223542238-6948b8d8-8c31-4c27-8f29-876589b0a326.png)
+![image](https://user-images.githubusercontent.com/59964869/223542644-be22b705-8d17-438b-a04f-6c30b216c342.png)
+#### LSTM recurrent neural network
+![image](https://user-images.githubusercontent.com/59964869/223542927-bbb23109-e3d2-44bd-a867-04826dcab0cc.png)
